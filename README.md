@@ -8,13 +8,13 @@ Kodluyoruz Back-End Eğitimi kapsamında açtığım ilk repo.
 git clone
 https://github.com/shushukaplan/kodluyoruzilkrepo.git
 
-Usage
+### Usage
 Projeyi cloneladıktan sonra VS Code programında açın.
 Lİnux için;
 cd kodluyoruzilkrepo
 code .
 
-### Contributing
+#### Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 [Patika](https://www.patika.dev/tr)
