@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# KODLUYORUZ İLK REPO
 [Kodluyoruz](https://www.kodluyoruz.org/) Back-End Eğitimi kapsamında açtığım ilk repo.
 İçerisinde bir adet READ.ME dosyası, bir adet index.html barındırıyor.
 
@@ -12,17 +12,21 @@
 git clone
 https://github.com/shushukaplan/kodluyoruzilkrepo.git
 
-### Usage
+## Usage
 
 Projeyi cloneladıktan sonra VS Code programında açın.
 
 Lİnux için;
+
 cd kodluyoruzilkrepo
 code .
 
-#### Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 [Patika](https://www.patika.dev/tr)
