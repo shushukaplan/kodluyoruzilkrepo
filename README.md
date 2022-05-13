@@ -8,22 +8,21 @@
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-----------
+
 git clone
 https://github.com/shushukaplan/kodluyoruzilkrepo.git
----------
+
 ### Usage
 
 Projeyi cloneladıktan sonra VS Code programında açın.
-----------
+
 Lİnux için;
 cd kodluyoruzilkrepo
 code .
------------
+
 #### Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
------------
+
 
 [Patika](https://www.patika.dev/tr)
-----------
